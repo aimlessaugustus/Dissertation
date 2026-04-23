@@ -1,1 +1,1 @@
-Word count:
+Word count: Fluctuates 

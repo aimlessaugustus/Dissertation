@@ -1,1 +1,1 @@
-Word count:
+Word count: 500 words
