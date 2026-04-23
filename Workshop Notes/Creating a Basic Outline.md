@@ -33,18 +33,17 @@ Dataset analysis and frameworks -> implementation and migration strategies. Defi
 
 ---
 ## Evaluation of a Solution
-
 ### Technical Evaluation
-- performance benchmarks
-- accuracy metrics
-- simulation results
-- comparison with existing methods
+- Performance benchmarks
+- Accuracy metrics
+- Simulation results
+- Comparison with existing methods
 ### User-based Evaluation
-- user testing
-- surveys
-- interviews
-- behavioural analysis
+- User testing
+- Surveys
+- Interviews
+- Behavioural analysis
 
 ---
 
-Try to work on it weekly, ideally. You might not, but plan time effectively.
+Try to work on it weekly, ideally. You might not, but plan time effectively. Do not fail your dissertation.
