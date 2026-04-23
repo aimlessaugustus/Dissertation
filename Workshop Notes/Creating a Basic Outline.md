@@ -53,3 +53,6 @@ Study Mark (87) and Joe (74) as they went on to do doctorates, as well as who di
 If you do not get on top of it, you will be randomised.
 
 Have an idea of a title/brief overview of what you want to do, what you're trying to solve, and how you're going about to solve said problem.
+
+***==START DISSERTATION OVER SUMMER==***
+
