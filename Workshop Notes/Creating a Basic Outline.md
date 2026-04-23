@@ -10,4 +10,41 @@ Your gap can change depending on the results of your study.
 
 Your contribution doesn't need to be major - if it can solve a problem, no matter how small, it's valid. It's still research and a contribution. Most tools will be prototypes.
 
-Dataset analysis and frameworks -> implementation and migration strategies.
+Dataset analysis and frameworks -> implementation and migration strategies. Define the framework that you're doing.
+
+---
+## Solution Examples
+### Software Development
+- building a tool
+- creating an application
+- implementing an algorithm
+### Simulation / Modelling
+- Network simulations
+- Attack simulations
+- Performance modelling
+### Data Analysis
+- Analysing security logs
+- Machine learning models
+- Vulnerability datasets
+### Human-focused studies
+- Surveys
+- Interviews
+- Usability testing
+
+---
+## Evaluation of a Solution
+
+### Technical Evaluation
+- performance benchmarks
+- accuracy metrics
+- simulation results
+- comparison with existing methods
+### User-based Evaluation
+- user testing
+- surveys
+- interviews
+- behavioural analysis
+
+---
+
+Try to work on it weekly, ideally. You might not, but plan time effectively.
